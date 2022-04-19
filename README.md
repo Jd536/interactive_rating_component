@@ -1,32 +1,10 @@
-# Getting Started 
+# Frontend Mentor - Interactive rating component
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+### Screenshot
+![](https://i.postimg.cc/nLWZkbMR/Screenshot-2022-04-19-at-10-28-41-React-App.png)
 
-In the project directory, you can run:
+### Links
 
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-### What's this about. 
-
-This app lets you collect user's feeback (rating) and show a thank you message to the user upon submitting the form. 
+- Solution URL: [Add solution URL here](https://github.com/Jd536/interactive_rating_component)
+- Live Site URL: [Add live site URL here](https://interactive-rating-component-jpuznel5q-jd536.vercel.app/)
